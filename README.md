@@ -1,10 +1,5 @@
-### Hi there 
-
 <!--
 **DevRodriguera/DevRodriguera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,9 +9,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#Bem vindo 👋
-<h3 align="center">Desenvolvedor Front-end</h3>
-
+<h1 align="center"> Olá, seja bem vindo 👋</h1>
+<h3 align="center">Me chamo Rodrigo e sou desenvolvedor Front-end</h3>
+<div>
+  <h3>Meu caminho...</h3>
+  <p>Atualmente estou desenvolvendo proejtos para melhorar minhas habilidades, meu foco principal é front-end em React mas com outras tecnologias na manga.</p>
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devrodriguera" alt="devrodriguera" /></a> </p>
 
