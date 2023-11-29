@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **DevRodriguera/DevRodriguera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Olá 👋, sou Rodrigo</h1>
+#Bem vindo 👋
 <h3 align="center">Desenvolvedor Front-end</h3>
 
 
